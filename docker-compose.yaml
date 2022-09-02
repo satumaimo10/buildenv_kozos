@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  buildenv_kozos:
+    build: ./
+    volumes:
+      - ./workspace/:/root/workspace/ 
+    stdin_open: true
+    tty: true
