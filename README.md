@@ -8,5 +8,5 @@
 docker-compose up -d
 ```
 
-## 具体的な開発環境構築の手順について
+## 具体的な開発環境構築の手順
 [こちらの記事](https://qiita.com/satumaimo_10/items/9d30e742da64ec7831a3)をご参照ください。
